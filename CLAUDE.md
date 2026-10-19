@@ -17,6 +17,7 @@ decided style and scope. Static site, no framework, no runtime dependencies.
 ## Workflow
 1. Change data, CSS or JS. 2. Bump `ASSET_VERSION` in `tools/build.py` when CSS/JS changes.
 3. `python tools/build.py`. 4. Preview: `python -m http.server 8762` in the repo, open http://127.0.0.1:8762/.
+5. Show locally, wait for the user's OK, then push to main: Pages deploys to https://jeszuszkoma.github.io/secamoto/.
 
 ## Rules
 - Buy buttons link to the real product on secamoto.hu; this site sells nothing.

@@ -4,7 +4,7 @@ Decided: 2026-10-19. Change only on explicit request (redesign, new feature).
 
 ## Client
 - Business: Hungarian distributor of Seca motorcycle gear (clothing, boots, gloves) plus Richa D3O protectors. Online shop; free pickup in Budapest XVII. by appointment. Company: Moto Central Kft.
-- Contact: the shop owner (a friend of the user); phone and e-mail in `data/site.json`
+- Contact: the shop owner; phone and e-mail in `data/site.json`
 - Old site / sources: https://secamoto.hu/ (UNAS webshop, shop id 26165). Facebook and Instagram in `data/site.json`.
 
 ## Scope
@@ -34,8 +34,8 @@ Decided: 2026-10-19. Change only on explicit request (redesign, new feature).
 - None (user's choice).
 
 ## Launch
-- Repo: https://github.com/jeszuszkoma/secamoto (private), pushed 2026-10-19. No hosting by the user's choice
-  (no Pages, no Cloudflare Worker); the demo runs locally (see CLAUDE.md).
+- Repo: https://github.com/jeszuszkoma/secamoto (public). Demo URL: https://jeszuszkoma.github.io/secamoto/
+  (GitHub Pages, `.github/workflows/pages.yml` on every push to main). No Cloudflare Worker.
 - noindex until the owner approves.
 - Open items: full catalogue sync if the project goes ahead; larger lifestyle photos from the owner or Seca;
   the owner's answer about the clearance sale ("végkiárusítás").
