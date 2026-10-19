@@ -34,7 +34,8 @@ Decided: 2026-10-19. Change only on explicit request (redesign, new feature).
 - None (user's choice).
 
 ## Launch
-- Demo: local only for now. Hosting and repo visibility to be decided after the user's OK.
+- Repo: https://github.com/jeszuszkoma/secamoto (private), pushed 2026-10-19. No hosting by the user's choice
+  (no Pages, no Cloudflare Worker); the demo runs locally (see CLAUDE.md).
 - noindex until the owner approves.
 - Open items: full catalogue sync if the project goes ahead; larger lifestyle photos from the owner or Seca;
   the owner's answer about the clearance sale ("végkiárusítás").
