@@ -9,7 +9,7 @@ import pathlib
 import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-ASSET_VERSION = 3
+ASSET_VERSION = 4
 
 site = json.loads((ROOT / "data/site.json").read_text(encoding="utf-8"))
 cat = json.loads((ROOT / "data/catalog.json").read_text(encoding="utf-8"))
@@ -51,7 +51,7 @@ for p in cat["products"]:
     p["modes"] = [m["id"] for m in modes if p["slug"] in m["products"]]
     p["cat"] = cats[p["category"]]
 
-LEANS = [-7, 6, -5, 8, -8, 5]  # tilt (deg) of product cards on hover, by position
+LEANS = [-3, 2.5, -2, 3, -2.5, 2]  # tilt (deg) of product cards on hover, by position
 
 
 def card(p, pre, i):
