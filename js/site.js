@@ -16,6 +16,11 @@
   d.addEventListener('click', function (ev) { dds.forEach(function (x) { if (x.open && !x.contains(ev.target)) x.open = false; }); });
   d.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') dds.forEach(function (x) { x.open = false; }); });
 
+  /* ---- Back/Forward from the page cache: drop the focus the browser restores on the clicked card ---- */
+  addEventListener('pageshow', function (ev) {
+    if (ev.persisted && d.activeElement && d.activeElement !== d.body) d.activeElement.blur();
+  });
+
   /* ---- rev bar + gear indicator follow the scroll ---- */
   var fill = d.getElementById('revFill'), gearNow = d.getElementById('gearNow');
   var current = '1';

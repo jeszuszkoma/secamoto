@@ -15,8 +15,8 @@ Decided: 2026-10-19. Change only on explicit request (redesign, new feature).
 ## Style
 - Base: custom build. Direction: "Dashboard" (Műszerfal): the site framed like a motorcycle TFT screen.
   Riding modes RAIN / ROAD / URBAN / SPORT / TRACK are the main menu. Rev bar and gear indicator in
-  the header follow the scroll. Product cards lean into the corner on hover, with a lean-angle readout
-  (from the "Paddock" direction). Brainstorm board: https://claude.ai/artifact/3Q7TzKxQhtsVzbfA5ESyXK
+  the header follow the scroll. Product cards lean into the corner on hover (from the "Paddock"
+  direction). The lean-angle badge ("DŐLÉS 44°") was removed on 2026-10-19: it confused visitors. Brainstorm board: https://claude.ai/artifact/3Q7TzKxQhtsVzbfA5ESyXK
 - Colours: TFT black #07090B, lit white #E9F1F5, Seca red #FF2335, warning amber #FFB21A, neutral green #2BD47D.
   Fonts: Chakra Petch (dash, headings, numbers) + IBM Plex Sans Condensed (text), self-hosted.
 - Keep product and list pages calm: the dash is the frame, not every page.

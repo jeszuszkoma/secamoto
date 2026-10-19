@@ -9,7 +9,7 @@ import pathlib
 import re
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-ASSET_VERSION = 1
+ASSET_VERSION = 3
 
 site = json.loads((ROOT / "data/site.json").read_text(encoding="utf-8"))
 cat = json.loads((ROOT / "data/catalog.json").read_text(encoding="utf-8"))
@@ -51,11 +51,11 @@ for p in cat["products"]:
     p["modes"] = [m["id"] for m in modes if p["slug"] in m["products"]]
     p["cat"] = cats[p["category"]]
 
-LEANS = [(-7, 44), (6, 41), (-5, 38), (8, 47), (-8, 49), (5, 36)]
+LEANS = [-7, 6, -5, 8, -8, 5]  # tilt (deg) of product cards on hover, by position
 
 
 def card(p, pre, i):
-    lean, deg = LEANS[i % len(LEANS)]
+    lean = LEANS[i % len(LEANS)]
     stock = (f'<span class="st st-on">Raktáron{f" ({p["qty"]} db)" if p["qty"] else ""}</span>'
              if p["in_stock"] else '<span class="st st-off">Elfogyott</span>')
     return (
@@ -63,7 +63,6 @@ def card(p, pre, i):
         f'data-stock="{1 if p["in_stock"] else 0}" data-modes="{" ".join(p["modes"])}" data-group="{p["cat"]["group"]}">'
         f'<a href="{pre}termek/{p["slug"]}.html">'
         f'<span class="card-img"><img src="{pre}img/p/{p["slug"]}-s.webp" alt="" loading="lazy" width="420" height="{round(420 * p["img_h"] / p["img_w"])}"></span>'
-        f'<span class="lean-read" aria-hidden="true">{deg}°</span>'
         f'<span class="card-body"><span class="card-name">{e(short(p["name"]))}</span>'
         f'<span class="card-row"><b class="price">{huf(p["price"])}</b>{stock}</span></span></a></li>'
     )
@@ -230,11 +229,10 @@ def cat_card(c, pre, i):
     items = [products[s] for s in c["products"]]
     lead = next((p for p in items if p["in_stock"]), items[0])
     prices = [p["price"] for p in items if p["price"]]
-    lean, deg = LEANS[i % len(LEANS)]
+    lean = LEANS[i % len(LEANS)]
     return (
         f'<li class="card cat-card" style="--lean:{lean}deg"><a href="{pre}kategoria/{c["slug"]}.html">'
         f'<span class="card-img"><img src="{pre}img/p/{lead["slug"]}-s.webp" alt="" loading="lazy" width="420" height="{round(420 * lead["img_h"] / lead["img_w"])}"></span>'
-        f'<span class="lean-read" aria-hidden="true">{deg}°</span>'
         f'<span class="card-body"><span class="card-name">{e(c["name"])}</span>'
         f'<span class="card-row"><span class="dim">{len(items)} termék</span><b class="price">{huf(min(prices))}-tól</b></span></span></a></li>'
     )
