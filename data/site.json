@@ -1,0 +1,40 @@
+{
+  "name": "Secamoto",
+  "domain": "secamoto.hu",
+  "shop_url": "https://secamoto.hu/",
+  "tagline": "A Seca motoros felszerelések magyarországi forgalmazója.",
+  "company": "Moto Central Kft.",
+  "seat": "4625 Záhony, Kárpát utca 49.",
+  "tax_number": "32448283-2-15",
+  "company_reg_number": "15-09-092012",
+  "phone": "+36702201020",
+  "phone_text": "+36 70 220 1020",
+  "email": "info@secamoto.hu",
+  "pickup": "Budapest XVII. kerület, telefonon vagy e-mailben előre egyeztetett időpontban",
+  "weather": { "label": "BP XVII", "lat": 47.48, "lon": 19.26 },
+  "promo": {
+    "on": true,
+    "text": "Végkiárusítás: −45% mindenre a végösszegből",
+    "code": "FINAL45"
+  },
+  "shipping": [
+    { "name": "Személyes átvétel", "where": "Budapest XVII., egyeztetett időpontban", "price": 0 },
+    { "name": "GLS házhoz, bankkártyával (Barion)", "where": "1–3 munkanap", "price": 2900 },
+    { "name": "GLS házhoz, utánvéttel", "where": "1–3 munkanap", "price": 4190 },
+    { "name": "MPL futár", "where": "feladás 8–15 munkanap", "price": 7990 }
+  ],
+  "payment": ["Bankkártya (Barion)", "Előre utalás", "Utánvét", "Készpénz vagy átutalás személyes átvételnél"],
+  "links": {
+    "terms": "https://secamoto.hu/shop_help.php?tab=terms",
+    "privacy": "https://secamoto.hu/shop_help.php?tab=privacy_policy",
+    "shipping": "https://secamoto.hu/shop_contact.php?tab=shipping",
+    "payment": "https://secamoto.hu/shop_contact.php?tab=payment",
+    "contact": "https://secamoto.hu/shop_contact.php",
+    "size_table": "https://secamoto.com/en/size-table/"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61560699157667",
+    "instagram": "https://www.instagram.com/secamotohungary/"
+  },
+  "noindex": true
+}

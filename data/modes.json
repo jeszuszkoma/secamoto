@@ -1,0 +1,41 @@
+{
+  "_note": "Riding modes = the main menu. A product belongs to a mode when `match` (regex, lower case) hits its name, or its name + features when `match_features` is true. Order = order on the dash.",
+  "modes": [
+    {
+      "id": "rain", "label": "RAIN", "hu": "Eső", "gear": 2, "rpm": 4.2,
+      "photo": "img/tiles/cipo-csizma.webp", "photo_pos": "50% 60%",
+      "head": "Esőre készen",
+      "text": "Vízálló csizma, kesztyű és esőruha, hogy a túra ne a felhőkön múljon.",
+      "match": "vízálló|vízhatlan|membrán|esőruha|esőnadrág|eső és|htx|\\bwp\\b|monsun|multidry",
+      "match_features": true
+    },
+    {
+      "id": "road", "label": "ROAD", "hu": "Túra", "gear": 5, "rpm": 6.6,
+      "photo": "img/hero/hero-3.webp", "photo_pos": "42% 50%",
+      "head": "Napi 500 km",
+      "text": "Túrakabát, túranadrág, kesztyű és bakancs hosszú napokra, csomaggal is.",
+      "match": "túra|tour|s-adv|compass|arrakis|x-tour|strada"
+    },
+    {
+      "id": "urban", "label": "URBAN", "hu": "Város", "gear": 3, "rpm": 5.2,
+      "photo": "img/hero/hero-4.webp", "photo_pos": "58% 40%",
+      "head": "Városi körök",
+      "text": "Kevlár farmer, rövid szárú cipő, városi kabát: munkába és kávézóba, motorral.",
+      "match": "city|városi|farmer|sneaker|póló|csősál|balaclava|kevlár"
+    },
+    {
+      "id": "sport", "label": "SPORT", "hu": "Kanyar", "gear": 4, "rpm": 9.6,
+      "photo": "img/hero/hero-2.webp", "photo_pos": "70% 30%",
+      "head": "Kanyarvadászat",
+      "text": "Bőrkabát, sportkesztyű és sportcsizma, ha a hétvége a szerpentinről szól.",
+      "match": "sport|bőrkabát|hooligan|atom|hyper|apex"
+    },
+    {
+      "id": "track", "label": "TRACK", "hu": "Pálya", "gear": 6, "rpm": 12.6,
+      "photo": "img/tiles/borruha.webp", "photo_pos": "50% 40%",
+      "head": "Pályanap",
+      "text": "Egyrészes bőrruha, bőrnadrág, D3O protektorok: ami a rajtrácsra kell.",
+      "match": "srs|egyrészes|d3o|atom|hyper"
+    }
+  ]
+}

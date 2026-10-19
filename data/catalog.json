@@ -1,0 +1,3158 @@
+{
+ "source": "https://secamoto.hu/",
+ "fetched": "2026-10-19",
+ "categories": [
+  {
+   "slug": "ferfi-borruha",
+   "name": "Bőrruha",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Borruha",
+   "products": [
+    "seca-srs-one-egyreszes-borruha"
+   ]
+  },
+  {
+   "slug": "ferfi-nadrag",
+   "name": "Motoros nadrág",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Bornadrag",
+   "products": [
+    "seca-arrakis-ii-turanadrag",
+    "seca-hybrid-iii-black-city-tura-nadrag",
+    "seca-sector-ii-city-turanadrag",
+    "srs-ii-bornadrag-fekete-titanium",
+    "seca-strada-evo-black-cordura-turanadrag",
+    "seca-stroke-iii-black-city-farmer",
+    "seca-x-tour-black-cordura-turanadrag",
+    "seca-yakuza-arm-khaki-city-armalith-motoros-nadrag",
+    "seca-delta-one-blue-city-cordura-farmer",
+    "seca-badlands-arm-khaki-city-armalith-motoros-nadr"
+   ]
+  },
+  {
+   "slug": "ferfi-borkabat",
+   "name": "Bőrkabát",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Borkabat",
+   "products": [
+    "seca-hooligan-air-black-borkabat",
+    "seca-hooligan-borkabat",
+    "seca-hooligan-titanium-fluo-yellow-borkabat",
+    "seca-hooligan-white-fluo-red-borkabat",
+    "srs-ii-borkabat-fekete-titanium",
+    "seca-aviator-ii-vintage-black-borkabat",
+    "seca-bonneville-black-borkabat",
+    "seca-bonneville-perforated-borkabat",
+    "seca-darkside-tfl-borkabat",
+    "seca-hooligan-blue-neon-borkabat"
+   ]
+  },
+  {
+   "slug": "ferfi-textilkabat",
+   "name": "Textil kabát",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Textil-kabat",
+   "products": [
+    "seca-arrakis-ii-black-turakabat",
+    "seca-arrakis-ii-grey-blue-red-turakabat",
+    "seca-katana-iii-city-motoros-kabat",
+    "seca-marshal-ii-green-city-kevlar-protektoros-ing",
+    "seca-orkan-ii-black-turakabat",
+    "seca-stream-evo-black-city-tour-motoros-kabat",
+    "seca-stream-evo-grey-city-tour-motoros-kabat",
+    "seca-venti-pro-sport-city-kabat",
+    "seca-warm-jacket",
+    "seca-aero-pro-black-city-tura-kabat"
+   ]
+  },
+  {
+   "slug": "ferfi-kesztyu",
+   "name": "Kesztyű",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Kesztyu",
+   "products": [
+    "seca-atom-black-sport-kesztyu",
+    "seca-x-stretch-ii-black-city-sport-motoros-kesztyu",
+    "seca-x-stretch-ii-bown-city-sport-motoros-kesztyu",
+    "seca-atom-fluo-yellow-sport-kesztyu",
+    "seca-atom-red-sport-kesztyu",
+    "seca-axis-mesh-ii-black-city-sport-kesztyu",
+    "seca-axis-mesh-ii-fluo-yellow-city-sport-kesztyu",
+    "seca-axis-mesh-ii-red-city-sport-kesztyu",
+    "seca-compass-black-turakesztyu",
+    "seca-compass-htx-black-turakesztyu"
+   ]
+  },
+  {
+   "slug": "ferfi-csizma",
+   "name": "Cipő, csizma",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Cipo-Csizma",
+   "products": [
+    "seca-apex-pro-black-city-sport-csizma",
+    "seca-apex-pro-fluo-black-city-sport-csizma",
+    "seca-pulsar-ii-black-sport-turacsizma",
+    "seca-s-adv-grey-turabakancs",
+    "moto-id-nitro-city-sport-rovidszaru-motoros-csizma",
+    "seca-apex-pro-wp-black-vizallo-city-sport-csizma",
+    "seca-clark-city-marhabor-motoros-csizma",
+    "seca-comet-ii-vizallo-turacsizma",
+    "seca-hyper-ii-black-sport-motoros-csizma",
+    "seca-kent-ii-black-varosi-motoros-cipo"
+   ]
+  },
+  {
+   "slug": "polo",
+   "name": "Póló",
+   "group": "ferfi",
+   "shop_url": "https://secamoto.hu/Polok",
+   "products": [
+    "seca-garage-ferfi-polo",
+    "seca-dirt-camo",
+    "seca-geo-sign-black-ferfi-polo",
+    "seca-geo-sign-white-ferfi-polo"
+   ]
+  },
+  {
+   "slug": "noi-borkabat",
+   "name": "Bőrkabát",
+   "group": "noi",
+   "shop_url": "https://secamoto.hu/Borruha-Motoros-Borkabat",
+   "products": [
+    "seca-darkside-tfl-lady-city-borkabat",
+    "seca-srs-ii-lady-sport-borkabat",
+    "seca-bonneville-lady-city-borkabat"
+   ]
+  },
+  {
+   "slug": "noi-textilkabat",
+   "name": "Textil kabát",
+   "group": "noi",
+   "shop_url": "https://secamoto.hu/Noi-Textil-Motoros-Kabat",
+   "products": [
+    "seca-arrakis-ii-lady-titanium-turakabat",
+    "seca-garage-noi-polo",
+    "seca-jessica-iii-city-textil-motoros-kabat",
+    "seca-stream-evo-lady-black-city-turakabat",
+    "seca-stream-evo-lady-grey-city-turakabat",
+    "seca-superlite-lady-city-textil-motoros-kabat",
+    "seca-warm-lady-kabat",
+    "seca-airflow-ii-lady-black-city-motoros-kabat",
+    "seca-airflow-ii-lady-pink-black-city-motoros-kabat",
+    "seca-arrakis-ii-lady-black-turakabat"
+   ]
+  },
+  {
+   "slug": "noi-nadrag",
+   "name": "Nadrág",
+   "group": "noi",
+   "shop_url": "https://secamoto.hu/Motoros-Nadrag-Bor-Textil-Farmer",
+   "products": [
+    "seca-arrakis-ii-lady-black-turanadrag",
+    "seca-selene-lady-black-city-kevlar-nadrag",
+    "seca-srs-ii-lady-sport-bornadrag",
+    "seca-venus-ii-lady-city-turanadrag",
+    "seca-angel-black-noi-testhezallo-flexi-farmer-nadr",
+    "seca-delta-one-black-lady-city-cordura-farmer",
+    "seca-delta-one-blue-lady-city-cordura-farmer",
+    "seca-flex-black-noi-testhezallo-flexi-nadrag-kopas",
+    "seca-selene-lady-blue-city-kevlar-nadrag",
+    "seca-squadron-lady-black-city-cordura-motoros-nadr"
+   ]
+  },
+  {
+   "slug": "noi-kesztyu",
+   "name": "Kesztyű",
+   "group": "noi",
+   "shop_url": "https://secamoto.hu/Noi-Motoros-kesztyuk",
+   "products": [
+    "seca-atom-lady-white-sport-motoros-kesztyu",
+    "seca-atom-lady-sport-motoros-kesztyu",
+    "seca-axis-mesh-ii-lady-black-city-sport-kesztyu",
+    "seca-axis-mesh-ii-lady-pink-city-sport-kesztyu",
+    "seca-compass-htx-lady-vizallo-motoros-kesztyu",
+    "seca-compass-lady-black-turakesztyu",
+    "seca-polar-ii-lady-turakesztyu",
+    "seca-x-stretch-ii-lady-city-sport-kesztyu"
+   ]
+  },
+  {
+   "slug": "noi-csizma",
+   "name": "Cipő, csizma",
+   "group": "noi",
+   "shop_url": "https://secamoto.hu/Noi-Cipo-Csizma",
+   "products": [
+    "seca-hyper-ii-noi-sport-motoros-csizma",
+    "seca-apex-pro-fluo-red-noi-city-sport-csizma",
+    "seca-apex-pro-noi-black-city-sport-csizma",
+    "seca-apex-pro-wp-noi-black-vizallo-city-sport-csiz",
+    "seca-comet-ii-noi-vizallo-turacsizma",
+    "seca-kent-ii-noi-black-sneaker-varosi-motoros-cipo",
+    "seca-speed-black-noi-rovid-varosi-motoros-cipo",
+    "seca-tour-tech-ii-noi-black-turacsizma",
+    "seca-traffic-ii-noi-city-motoros-cipo"
+   ]
+  },
+  {
+   "slug": "kiegeszitok",
+   "name": "Kiegészítők",
+   "group": "egyeb",
+   "shop_url": "https://secamoto.hu/Kiegeszitok",
+   "products": [
+    "seca-signal-ii-fluo-lathatosagi-melleny",
+    "seca-bandit-ii-ferfi-funkcionalis-balaclava",
+    "seca-bandit-ii-windstop-noi-funkcionalis-balaclava",
+    "seca-clint-black-termoaktiv-csosal",
+    "seca-clint-camo-termoaktiv-csosal",
+    "seca-drop-esonadrag",
+    "seca-monsun-evo-black-fluo-esoruha",
+    "seca-multidry-eso-es-szeldzseki",
+    "seca-outdoor-2xl-motortakaro-ponyva-top-case-verzi",
+    "seca-outdoor-3xl-motortakaro-ponyva-top-case-verzi"
+   ]
+  },
+  {
+   "slug": "protektorok",
+   "name": "Protektorok D3O",
+   "group": "egyeb",
+   "shop_url": "https://secamoto.hu/Protektorok-D3O",
+   "products": [
+    "richa-d3o-level-1-mellkasvedo-szett",
+    "richa-d3o-ghost-level-1-terd-konyok-vedo",
+    "richa-d3o-level-1-t5-evo-x-konyokvedo",
+    "richa-d3o-level-1-t5-evo-x-terdvedo",
+    "richa-d3o-level-1-t5-evo-x-vallvedo",
+    "richa-d3o-level-2-legateresztos-konyokvedo",
+    "richa-d3o-level-2-legateresztos-terdprotektor",
+    "richa-d3o-level-2-legateresztos-vallvedo",
+    "richa-d3o-level-2-t5-evo-x-pro-konyokvedo",
+    "richa-d3o-t5-evo-x-terdprotektor"
+   ]
+  }
+ ],
+ "products": [
+  {
+   "slug": "seca-srs-one-egyreszes-borruha",
+   "name": "Seca SRS One Sport egyrészes bőrruha",
+   "sku": "6SRO23MQ",
+   "category": "ferfi-borruha",
+   "price": 303900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "sizes_in_stock": [
+    "50"
+   ],
+   "colors": [
+    "black",
+    "white",
+    "fluo red"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr",
+    "Kényelmes D3O® (2. szintű) váll-, könyök-, csípő- és térdprotektorok.",
+    "Zseb, amely lehetővé teszi a D3O® hát- és mellkasi protektorok felhelyezését.",
+    "Váll- és cserélhető könyök- és térdcsúszók",
+    "Kevlar® szálakkal megerősített biztonsági varratok",
+    "Perforált szellőzőpanelek",
+    "Aerodinamikus púpos hátrész",
+    "Elasztikus panelek",
+    "Kényelmes, légáteresztő és kivehető AirMesh bélés",
+    "Puha és kényelmes gallér, mandzsetták és lábszárvégek",
+    "CE-minősített"
+   ],
+   "desc": "Kiváló minőségű marhabőr; Kényelmes D3O® (2. szintű) váll-, könyök-, csípő- és térdprotektorok; Zseb, amely lehetővé teszi a D3O® hát- és mellkasi protektorok felhelyezését; Váll- és cserélhető könyök- és térdcsúszók; Kevlar® szálakkal megerősített biztonsági varratok; Perforált szellőzőpanelek…",
+   "shop_url": "https://secamoto.hu/Seca-SRS-One-egyreszes-borruha",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-turanadrag",
+   "name": "Seca ARRAKIS II Túranadrág",
+   "sku": "7ARR21MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 74900,
+   "in_stock": true,
+   "qty": 5,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-ARRAKIS-II-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hybrid-iii-black-city-tura-nadrag",
+   "name": "Seca Hybrid III Black City-Túra Nadrág",
+   "sku": "7HYB24MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 59900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hybrid-III-Black-City-Tura-Nadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-sector-ii-city-turanadrag",
+   "name": "Seca SECTOR II City-Túranadrág",
+   "sku": "7SEC21MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 55900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL",
+    "5XL",
+    "6XL",
+    "8XL"
+   ],
+   "sizes_in_stock": [
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-SECTOR-II-City-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "srs-ii-bornadrag-fekete-titanium",
+   "name": "Seca SRS II Bőrnadrág FEKETE/TITANIUM",
+   "sku": "3SRS21MQ-04",
+   "category": "ferfi-nadrag",
+   "price": 116900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58"
+   ],
+   "sizes_in_stock": [
+    "52",
+    "54"
+   ],
+   "colors": [
+    "black",
+    "titanium"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr",
+    "Kényelmes D3O® CE (2. szintű) térd- és csípővédő protektorok",
+    "Térdcsúszók (cserélhető)",
+    "Kevlar® szálakkal megerősített biztonsági varratok",
+    "Perforált szellőzőpanelek",
+    "Elasztikus panelek",
+    "Kényelmes, légáteresztő és kivehető AirMesh bélés",
+    "Puha és kényelmes lábszárkikészítés",
+    "CE-minősített"
+   ],
+   "desc": "Kiváló minőségű marhabőr; Kényelmes D3O® CE (2. szintű) térd- és csípővédő protektorok; Térdcsúszók (cserélhető); Kevlar® szálakkal megerősített biztonsági varratok; Perforált szellőzőpanelek; Elasztikus panelek; Kényelmes, légáteresztő és kivehető AirMesh bélés; Puha és kényelmes…",
+   "shop_url": "https://secamoto.hu/SRS-II-Bornadrag-FEKETE-TITANIUM",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-strada-evo-black-cordura-turanadrag",
+   "name": "Seca Strada EVo Black Cordura Túranadrág",
+   "sku": "7STE21MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 91000,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Strada-EVo-Black-Cordura-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-stroke-iii-black-city-farmer",
+   "name": "Seca STROKE III Black City Farmer",
+   "sku": "7STK23MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 54990,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "sizes_in_stock": [
+    "36"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-STROKE-III-Black-City-Farmer",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-x-tour-black-cordura-turanadrag",
+   "name": "Seca X-Tour Black Cordura Túranadrág",
+   "sku": "7XTU20MQ-00",
+   "category": "ferfi-nadrag",
+   "price": 84900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL",
+    "5XL",
+    "6XL",
+    "8XL",
+    "10XL"
+   ],
+   "sizes_in_stock": [
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-X-Tour-Black-Cordura-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-yakuza-arm-khaki-city-armalith-motoros-nadrag",
+   "name": "Seca Yakuza Arm Khaki City Armalith Motoros Nadrág",
+   "sku": "7YAA23MQ-75",
+   "category": "ferfi-nadrag",
+   "price": 102990,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+   ],
+   "sizes_in_stock": [
+    "38"
+   ],
+   "colors": [
+    "khaki"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Yakuza-Arm-Khaki-City-Armalith-Motoros-Nadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-delta-one-blue-city-cordura-farmer",
+   "name": "Seca Delta one Blue City Cordura Farmer",
+   "sku": "7DON22MQ-40",
+   "category": "ferfi-nadrag",
+   "price": 69000,
+   "in_stock": true,
+   "qty": null,
+   "sizes": [
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "sizes_in_stock": [
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "colors": [
+    "blue"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Delta-one-Blue-City-Cordura-Farmer",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-badlands-arm-khaki-city-armalith-motoros-nadr",
+   "name": "Seca Badlands Arm Khaki City Armalith Motoros Nadrág",
+   "sku": "7BLA23MQ-75",
+   "category": "ferfi-nadrag",
+   "price": 107900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "khaki"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Badlands-Arm-Khaki-City-Armalith-Motoros-Nadr",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hooligan-air-black-borkabat",
+   "name": "Seca Hooligan Air City Black Bőr-Textil kabát",
+   "sku": "1HOA23MQ",
+   "category": "ferfi-borkabat",
+   "price": 114900,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58"
+   ],
+   "sizes_in_stock": [
+    "54",
+    "56",
+    "58"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hooligan-Air-Black-Borkabat",
+   "img_w": 800,
+   "img_h": 800
+  },
+  {
+   "slug": "seca-hooligan-borkabat",
+   "name": "Seca Hooligan Black Bőrkabát",
+   "sku": "1HOO22MQ-00",
+   "category": "ferfi-borkabat",
+   "price": 139900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58",
+    "60"
+   ],
+   "sizes_in_stock": [
+    "60"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr",
+    "D3O® 2. szintű váll- és könyökvédők",
+    "Zseb, amely lehetővé teszi a D3O® mellkas- és hátprotektorok felhelyezését.",
+    "Vállcsúszók",
+    "Kevlar® szálakkal megerősített biztonsági varratok",
+    "Perforált szellőzőpanelek",
+    "RespirAir+ légáramlási rendszer a központi cipzáron",
+    "Elasztikus panelek",
+    "Kényelmes, légáteresztő és kivehető AirMesh bélés",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "ReflexLite® fényvisszaverő anyagok",
+    "Nadrág csatlakozó cipzár",
+    "Övcsatlakozó mellékelve",
+    "CE-minősített"
+   ],
+   "desc": "Kiváló minőségű marhabőr; D3O® 2. szintű váll- és könyökvédők; Zseb, amely lehetővé teszi a D3O® mellkas- és hátprotektorok felhelyezését; Vállcsúszók; Kevlar® szálakkal megerősített biztonsági varratok; Perforált szellőzőpanelek; RespirAir+ légáramlási rendszer a központi cipzáron; Elasztikus…",
+   "shop_url": "https://secamoto.hu/Seca-Hooligan-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hooligan-titanium-fluo-yellow-borkabat",
+   "name": "Seca Hooligan Titanium/Fluo Yellow Bőrkabát",
+   "sku": "1HOO22MQ-04",
+   "category": "ferfi-borkabat",
+   "price": 139900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58",
+    "60"
+   ],
+   "sizes_in_stock": [
+    "54"
+   ],
+   "colors": [
+    "titanium",
+    "fluo yellow"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hooligan-Titanium-Fluo-Yellow-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hooligan-white-fluo-red-borkabat",
+   "name": "Seca Hooligan WHITE/FLUO RED Bőrkabát",
+   "sku": "1HOO22MQ-52",
+   "category": "ferfi-borkabat",
+   "price": 139900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58",
+    "60"
+   ],
+   "sizes_in_stock": [
+    "50"
+   ],
+   "colors": [
+    "white",
+    "fluo red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hooligan-WHITE-FLUO-RED-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "srs-ii-borkabat-fekete-titanium",
+   "name": "Seca SRS II Bőrkabát FEKETE/TITANIUM",
+   "sku": "1SRS21MQ-04",
+   "category": "ferfi-borkabat",
+   "price": 159500,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "48",
+    "50",
+    "52",
+    "54",
+    "56",
+    "58"
+   ],
+   "sizes_in_stock": [
+    "52",
+    "58"
+   ],
+   "colors": [
+    "black",
+    "titanium"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr",
+    "Kényelmes D3O® (2. szintű) hátrész, váll- és könyökvédők",
+    "Zseb, amely lehetővé teszi a D3O® mellkasi protektorok felhelyezését",
+    "Váll- és könyökcsúszók (cserélhető)",
+    "Kevlar® szálakkal megerősített biztonsági varratok",
+    "Perforált szellőzőpanelek",
+    "Aerodinamikus púpos hátrész",
+    "Elasztikus panelek",
+    "Kényelmes, légáteresztő és kivehető AirMesh bélés",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "CE-minősített"
+   ],
+   "desc": "Kiváló minőségű marhabőr; Kényelmes D3O® (2. szintű) hátrész, váll- és könyökvédők; Zseb, amely lehetővé teszi a D3O® mellkasi protektorok felhelyezését; Váll- és könyökcsúszók (cserélhető); Kevlar® szálakkal megerősített biztonsági varratok; Perforált szellőzőpanelek; Aerodinamikus púpos hátrész…",
+   "shop_url": "https://secamoto.hu/SRS-II-Borkabat-FEKETE-TITANIUM",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-aviator-ii-vintage-black-borkabat",
+   "name": "Seca Aviator II Vintage Black Bőrkabát",
+   "sku": "1AVI19MQ-00",
+   "category": "ferfi-borkabat",
+   "price": 124900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Aviator-II-Vintage-Black-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-bonneville-black-borkabat",
+   "name": "Seca Bonneville City Black Bőrkabát",
+   "sku": "1BON22MQ",
+   "category": "ferfi-borkabat",
+   "price": 129900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Bonneville-Black-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-bonneville-perforated-borkabat",
+   "name": "Seca Bonneville City Perforated Bőrkabát",
+   "sku": "1BOP20MQ",
+   "category": "ferfi-borkabat",
+   "price": 129900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Bonneville-Perforated-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-darkside-tfl-borkabat",
+   "name": "Seca Darkside TFL City Bőrkabát",
+   "sku": "1DST23MQ",
+   "category": "ferfi-borkabat",
+   "price": 146900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr TFL® technológiával",
+    "D3O® váll- és könyökvédők",
+    "Zseb a D3O® hátprotektor felhelyezéséhez",
+    "Megerősített biztonsági varratok",
+    "Puha és légáteresztő bélés",
+    "Perforált szellőzőpanelek",
+    "RespirAir+ légáramlási rendszer: 2 mellkasi cipzáras szellőzőnyílás, 2 vállcipzáras szellőzőnyílás, 2 ujjcipzáras szellőzőnyílás, hálós szellőzőpanel a központi cipzáron.",
+    "Puha és kényelmes gallérkialakítás",
+    "ReflexLite® fényvisszaverők",
+    "Nadrág csatlakozó cipzár",
+    "CE-minősítésű"
+   ],
+   "desc": "Kiváló minőségű marhabőr TFL® technológiával; D3O® váll- és könyökvédők; Zseb a D3O® hátprotektor felhelyezéséhez; Megerősített biztonsági varratok; Puha és légáteresztő bélés; Perforált szellőzőpanelek; RespirAir+ légáramlási rendszer: 2 mellkasi cipzáras szellőzőnyílás, 2 vállcipzáras…",
+   "shop_url": "https://secamoto.hu/Seca-Darkside-TFL-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hooligan-blue-neon-borkabat",
+   "name": "Seca Hooligan BLUE/NEON Bőrkabát",
+   "sku": "1HOO22MQ-06",
+   "category": "ferfi-borkabat",
+   "price": 139900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "blue",
+    "neon"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hooligan-BLUE-NEON-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-black-turakabat",
+   "name": "Seca Arrakis II Black Túrakabát",
+   "sku": "2ARR21MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 99500,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL",
+    "5XL"
+   ],
+   "sizes_in_stock": [
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Tartós DuraTec® 600D",
+    "Elasztikus SW 2. szintű könyök- és vállvédők",
+    "Zseb, amely lehetővé teszi a hátprotektor felhelyezését",
+    "ReflexLite® fényvisszaverők",
+    "Levehető Humax® membrán (12000mm)",
+    "Levehető hőszigetelő bélés",
+    "Puha és légáteresztő AirMesh bélés",
+    "RespirAir+ légáramlási rendszer",
+    "Elasztikus panelek",
+    "Derék, mandzsetta és ujjak állítható rendszer",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "Vízálló rakományzsebek",
+    "Funkcionális külső és belső zsebek",
+    "Nadrág csatlakozó cipzár (360°)",
+    "CE-minősített"
+   ],
+   "desc": "Tartós DuraTec® 600D; Elasztikus SW 2. szintű könyök- és vállvédők; Zseb, amely lehetővé teszi a hátprotektor felhelyezését; ReflexLite® fényvisszaverők; Levehető Humax® membrán (12000mm); Levehető hőszigetelő bélés; Puha és légáteresztő AirMesh bélés; RespirAir+ légáramlási rendszer; Elasztikus…",
+   "shop_url": "https://secamoto.hu/Seca-Arrakis-II-Black-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-grey-blue-red-turakabat",
+   "name": "Seca Arrakis II Grey/BLUE/RED Túrakabát",
+   "sku": "2ARR21MQ-06",
+   "category": "ferfi-textilkabat",
+   "price": 99500,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "M",
+    "3XL"
+   ],
+   "colors": [
+    "grey",
+    "blue",
+    "red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Arrakis-II-Grey-BLUE-RED-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-katana-iii-city-motoros-kabat",
+   "name": "Seca Katana III City Motoros kabát",
+   "sku": "2KAT21MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 59900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL",
+    "5XL",
+    "6XL",
+    "8XL",
+    "10XL",
+    "12XL"
+   ],
+   "sizes_in_stock": [
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Katana-III-City-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-marshal-ii-green-city-kevlar-protektoros-ing",
+   "name": "Seca Marshal II Green City Kevlár Protektoros ing",
+   "sku": "2MAR24MQ-75",
+   "category": "ferfi-textilkabat",
+   "price": 72900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+   ],
+   "sizes_in_stock": [
+    "L"
+   ],
+   "colors": [
+    "green"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Marshal-II-Green-City-Kevlar-Protektoros-ing",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-orkan-ii-black-turakabat",
+   "name": "Seca ORKAN II Black Túrakabát",
+   "sku": "2ORK22MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 79900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+   ],
+   "sizes_in_stock": [
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-ORKAN-II-Black-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-stream-evo-black-city-tour-motoros-kabat",
+   "name": "Seca Stream Evo Black City-Tour Motoros kabát",
+   "sku": "2STR24MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 77900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Stream-Evo-Black-City-Tour-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-stream-evo-grey-city-tour-motoros-kabat",
+   "name": "Seca Stream Evo Grey City-Tour Motoros kabát",
+   "sku": "2STR24MQ-03",
+   "category": "ferfi-textilkabat",
+   "price": 77900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "XL"
+   ],
+   "colors": [
+    "grey"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Stream-Evo-Grey-City-Tour-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-venti-pro-sport-city-kabat",
+   "name": "Seca Venti Pro Sport-City kabát",
+   "sku": "2VTP24MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 107900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "M",
+    "L",
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Tartós Invista® Cordura® 500D és DuraTec® 600D",
+    "Kényelmes D3O® könyök- és vállvédők",
+    "Könyökvédő magasságának 3 fokozatú állítása",
+    "Zseb a D3O® hátprotektor felhelyezéséhez",
+    "Levehető InsiDry® membrán",
+    "A kabáton belül és kívül is használható membrán",
+    "Levehető hőszigetelő bélés",
+    "Vállcsúszók",
+    "ReflexLite® fényvisszaverők",
+    "Puha és lélegző AirMesh bélés",
+    "MeshProtecto® szellőzőpanelek",
+    "Elasztikus panelek",
+    "Derék, mandzsetta és ujj állítható rendszer",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "Funkcionális külső és belső zsebek",
+    "Nadrág csatlakozó cipzár",
+    "Az S_connect rendszer lehetővé teszi további rétegek csatlakoztatását a kabáthoz",
+    "CE-minősítésű"
+   ],
+   "desc": "Tartós Invista® Cordura® 500D és DuraTec® 600D; Kényelmes D3O® könyök- és vállvédők; Könyökvédő magasságának 3 fokozatú állítása; Zseb a D3O® hátprotektor felhelyezéséhez; Levehető InsiDry® membrán; A kabáton belül és kívül is használható membrán; Levehető hőszigetelő bélés; Vállcsúszók…",
+   "shop_url": "https://secamoto.hu/Seca-Venti-Pro-Sport-City-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-warm-jacket",
+   "name": "Seca Warm Jacket",
+   "sku": "8WAR21MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 19900,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+   ],
+   "sizes_in_stock": [
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Warm-Jacket",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-aero-pro-black-city-tura-kabat",
+   "name": "Seca AERO PRO Black City-Túra kabát",
+   "sku": "2ARP24MQ-00",
+   "category": "ferfi-textilkabat",
+   "price": 69900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-AERO-PRO-Black-City-Tura-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-atom-black-sport-kesztyu",
+   "name": "Seca Atom Black Sport kesztyű",
+   "sku": "5ATO24MQ-00",
+   "category": "ferfi-kesztyu",
+   "price": 29900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Puha kecskebőrből készült tenyér",
+    "A felső rész marhabőrből készült",
+    "Karbon protektorok",
+    "Digital® bőr kézmegerősítés",
+    "Superfabric® protektorok",
+    "Karbon ujjvédők",
+    "Tenyércsúszka",
+    "Érintőképernyő panelek",
+    "CE tanúsítvánnyal rendelkezik"
+   ],
+   "desc": "Puha kecskebőrből készült tenyér; A felső rész marhabőrből készült; Karbon protektorok; Digital® bőr kézmegerősítés; Superfabric® protektorok; Karbon ujjvédők; Tenyércsúszka; Érintőképernyő panelek; CE tanúsítvánnyal rendelkezik",
+   "shop_url": "https://secamoto.hu/Seca-Atom-Black-Sport-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-x-stretch-ii-black-city-sport-motoros-kesztyu",
+   "name": "Seca X-STRETCH II Black City-Sport Motoros kesztyű",
+   "sku": "5XST24MQ-00",
+   "category": "ferfi-kesztyu",
+   "price": 19000,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "M"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-X-STRETCH-II-Black-City-Sport-Motoros-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-x-stretch-ii-bown-city-sport-motoros-kesztyu",
+   "name": "Seca X-STRETCH II Brown City-Sport Motoros kesztyű",
+   "sku": "5XST24MQ-22",
+   "category": "ferfi-kesztyu",
+   "price": 19000,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "M"
+   ],
+   "colors": [
+    "brown"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-X-STRETCH-II-Bown-City-Sport-Motoros-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-atom-fluo-yellow-sport-kesztyu",
+   "name": "Seca Atom Fluo Yellow Sport kesztyű",
+   "sku": "5ATO24MQ-58",
+   "category": "ferfi-kesztyu",
+   "price": 29900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "fluo yellow"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Atom-Fluo-Yellow-Sport-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-atom-red-sport-kesztyu",
+   "name": "Seca Atom Red Sport kesztyű",
+   "sku": "5ATO24MQ-02",
+   "category": "ferfi-kesztyu",
+   "price": 29900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Atom-Red-Sport-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-axis-mesh-ii-black-city-sport-kesztyu",
+   "name": "Seca Axis Mesh II Black City-Sport Kesztyű",
+   "sku": "5AXM24MQ-00",
+   "category": "ferfi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Axis-Mesh-II-Black-City-Sport-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-axis-mesh-ii-fluo-yellow-city-sport-kesztyu",
+   "name": "Seca Axis Mesh II Fluo Yellow City-Sport Kesztyű",
+   "sku": "5AXM24MQ-58",
+   "category": "ferfi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "fluo yellow"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Axis-Mesh-II-Fluo-Yellow-City-Sport-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-axis-mesh-ii-red-city-sport-kesztyu",
+   "name": "Seca Axis Mesh II Red City-Sport Kesztyű",
+   "sku": "5AXM24MQ-02",
+   "category": "ferfi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Axis-Mesh-II-Red-City-Sport-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-compass-black-turakesztyu",
+   "name": "Seca Compass Black Túrakesztyű",
+   "sku": "5COM22MQ-00",
+   "category": "ferfi-kesztyu",
+   "price": 21000,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Compass-Black-Turakesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-compass-htx-black-turakesztyu",
+   "name": "Seca Compass HTX Black Túrakesztyű",
+   "sku": "5COX22MQ-00",
+   "category": "ferfi-kesztyu",
+   "price": 25500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Puha kecskebőr és textil",
+    "Vízálló és légáteresztő Hipora® membrán",
+    "Digital® bőr kézerősítés",
+    "A legújabb D3O® technológia a kéz teljes körű védelme érdekében.",
+    "Superfabric® protektorok",
+    "Elasztikus panelek",
+    "Kemény ujjpercvédő",
+    "ReflexLite® fényvisszaverők",
+    "Tépőzáras pántot védő panel a veszélyes horogtól",
+    "Érintőképernyő panelek",
+    "CE tanúsítvánnyal rendelkezik"
+   ],
+   "desc": "Puha kecskebőr és textil; Vízálló és légáteresztő Hipora® membrán; Digital® bőr kézerősítés; A legújabb D3O® technológia a kéz teljes körű védelme érdekében; Superfabric® protektorok; Elasztikus panelek; Kemény ujjpercvédő; ReflexLite® fényvisszaverők; Tépőzáras pántot védő panel a veszélyes…",
+   "shop_url": "https://secamoto.hu/Seca-Compass-HTX-Black-Turakesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-apex-pro-black-city-sport-csizma",
+   "name": "Seca APEX PRO Black City-Sport Csizma",
+   "sku": "4APX24QQ-00",
+   "category": "ferfi-csizma",
+   "price": 58500,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_in_stock": [
+    "37"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Nagyon könnyű, tartós és légáteresztő MicroFibre és MeshProtecto",
+    "Gyors és egyszerű ATOP® rögzítési rendszer",
+    "Megmerevített sípcsont és sarokelemek",
+    "A boka belső és külső részének védelme",
+    "Megfelelően formázott, olajálló talp",
+    "A lábat váltás közben védő panel",
+    "Puha és légáteresztő bélés",
+    "Légáramoltató rendszer",
+    "ReflexLite® fényvisszaverők",
+    "CE-minősítésű"
+   ],
+   "desc": "Nagyon könnyű, tartós és légáteresztő MicroFibre és MeshProtecto; Gyors és egyszerű ATOP® rögzítési rendszer; Megmerevített sípcsont és sarokelemek; A boka belső és külső részének védelme; Megfelelően formázott, olajálló talp; A lábat váltás közben védő panel; Puha és légáteresztő bélés…",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-Black-City-Sport-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-apex-pro-fluo-black-city-sport-csizma",
+   "name": "Seca APEX PRO Fluo Red City-Sport Csizma",
+   "sku": "4APX24QQ-52",
+   "category": "ferfi-csizma",
+   "price": 58500,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_in_stock": [
+    "41",
+    "45"
+   ],
+   "colors": [
+    "fluo red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-Fluo-Black-City-Sport-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-pulsar-ii-black-sport-turacsizma",
+   "name": "Seca PULSAR II Black Sport-Túracsizma",
+   "sku": "4PUL20QQ-00",
+   "category": "ferfi-csizma",
+   "price": 59000,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_in_stock": [
+    "45"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-PULSAR-II-Black-Sport-Turacsizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-s-adv-grey-turabakancs",
+   "name": "Seca S-ADV Grey Túrabakancs",
+   "sku": "4SDV24QQ-04",
+   "category": "ferfi-csizma",
+   "price": 72900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_in_stock": [
+    "44"
+   ],
+   "colors": [
+    "grey"
+   ],
+   "features": [
+    "Tartós, természetes nubuk bőr",
+    "Vízálló és légáteresztő InsiDry® membrán",
+    "Megmerevített sípcsont és sarokelemek",
+    "A boka belső és külső részének védelme",
+    "Fémcsatokkal rögzített cipő",
+    "A lábat váltás közben védő panel",
+    "Kétkomponensű, könnyű, rugalmas és ütéscsillapító EVA-hab talp",
+    "Puha és légáteresztő bélés",
+    "Rugalmas panelek",
+    "ReflexLite® fényvisszaverők",
+    "CE-minősítésű"
+   ],
+   "desc": "Tartós, természetes nubuk bőr; Vízálló és légáteresztő InsiDry® membrán; Megmerevített sípcsont és sarokelemek; A boka belső és külső részének védelme; Fémcsatokkal rögzített cipő; A lábat váltás közben védő panel; Kétkomponensű, könnyű, rugalmas és ütéscsillapító EVA-hab talp; Puha és…",
+   "shop_url": "https://secamoto.hu/Seca-S-ADV-Grey-Turabakancs",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "moto-id-nitro-city-sport-rovidszaru-motoros-csizma",
+   "name": "MOTO ID Nitro City-Sport Rövidszárú Motoros Csizma",
+   "sku": "2409-00",
+   "category": "ferfi-csizma",
+   "price": 44900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/MOTO-ID-Nitro-City-Sport-Rovidszaru-Motoros-Csizma",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "seca-apex-pro-wp-black-vizallo-city-sport-csizma",
+   "name": "Seca APEX PRO WP Black Vízálló City-Sport Csizma",
+   "sku": "4APW24QQ-00",
+   "category": "ferfi-csizma",
+   "price": 62900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-WP-Black-Vizallo-City-Sport-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-clark-city-marhabor-motoros-csizma",
+   "name": "Seca Clark City Marhabőr Motoros Csizma",
+   "sku": "4CLA22QQ-00",
+   "category": "ferfi-csizma",
+   "price": 39900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Clark-City-Marhabor-Motoros-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-comet-ii-vizallo-turacsizma",
+   "name": "Seca Comet II Vízálló Túracsizma",
+   "sku": "4COM25QQ-00",
+   "category": "ferfi-csizma",
+   "price": 55900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Comet-II-Vizallo-Turacsizma",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-hyper-ii-black-sport-motoros-csizma",
+   "name": "Seca Hyper II Black Sport Motoros Csizma",
+   "sku": "4HYP24QQ-00",
+   "category": "ferfi-csizma",
+   "price": 71500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Hyper-II-Black-Sport-Motoros-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-kent-ii-black-varosi-motoros-cipo",
+   "name": "Seca KENT II Black Sneaker Városi Motoros Cipő",
+   "sku": "4KEN24QQ-00",
+   "category": "ferfi-csizma",
+   "price": 55900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-KENT-II-Black-Varosi-Motoros-Cipo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-garage-ferfi-polo",
+   "name": "Seca Garage Férfi Póló",
+   "sku": "8GRG21MQ-00",
+   "category": "polo",
+   "price": 7490,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "sizes_in_stock": [
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Garage-Ferfi-Polo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-dirt-camo",
+   "name": "Seca Dirt Camo Férfi Póló",
+   "sku": "8DRC19QQ-00",
+   "category": "polo",
+   "price": 7490,
+   "in_stock": true,
+   "qty": null,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "colors": [
+    "camo"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Dirt-Camo",
+   "img_w": 830,
+   "img_h": 1000
+  },
+  {
+   "slug": "seca-geo-sign-black-ferfi-polo",
+   "name": "Seca Geo-Sign Black Férfi Póló",
+   "sku": "8GEO21MQ-00",
+   "category": "polo",
+   "price": 7490,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Geo-Sign-Black-Ferfi-Polo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-geo-sign-white-ferfi-polo",
+   "name": "Seca Geo-Sign White Férfi Póló",
+   "sku": "8GEO21MQ-90",
+   "category": "polo",
+   "price": 7490,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "white"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Geo-Sign-White-Ferfi-Polo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-darkside-tfl-lady-city-borkabat",
+   "name": "Seca Darkside TFL Lady City Bőrkabát",
+   "sku": "1DST23DQ-00",
+   "category": "noi-borkabat",
+   "price": 146900,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "sizes_in_stock": [
+    "34",
+    "36",
+    "40"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Darkside-TFL-Lady-City-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-srs-ii-lady-sport-borkabat",
+   "name": "Seca SRS II LADY Sport Bőrkabát",
+   "sku": "1SRS21DQ-14",
+   "category": "noi-borkabat",
+   "price": 155900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "sizes_in_stock": [
+    "40"
+   ],
+   "colors": [
+    "black",
+    "white"
+   ],
+   "features": [
+    "Kiváló minőségű marhabőr",
+    "Kényelmes D3O® (2. szintű) hátrész, váll- és könyökvédők",
+    "Zseb, amely lehetővé teszi a D3O® mellkasi protektorok felhelyezését",
+    "Váll- és könyökcsúszók (cserélhető)",
+    "Kevlar® szálakkal megerősített biztonsági varratok",
+    "Perforált szellőzőpanelek",
+    "Aerodinamikus púpos hátrész",
+    "Elasztikus panelek",
+    "Kényelmes, légáteresztő és kivehető AirMesh bélés",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "CE-minősített"
+   ],
+   "desc": "Kiváló minőségű marhabőr; Kényelmes D3O® (2. szintű) hátrész, váll- és könyökvédők; Zseb, amely lehetővé teszi a D3O® mellkasi protektorok felhelyezését; Váll- és könyökcsúszók (cserélhető); Kevlar® szálakkal megerősített biztonsági varratok; Perforált szellőzőpanelek; Aerodinamikus púpos hátrész…",
+   "shop_url": "https://secamoto.hu/Seca-SRS-II-LADY-Sport-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-bonneville-lady-city-borkabat",
+   "name": "Seca Bonneville Lady City Bőrkabát",
+   "sku": "1BON21DQ-00",
+   "category": "noi-borkabat",
+   "price": 129900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Bonneville-Lady-City-Borkabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-lady-titanium-turakabat",
+   "name": "Seca Arrakis II Lady Titanium Túrakabát",
+   "sku": "2ARR21DQ-04",
+   "category": "noi-textilkabat",
+   "price": 99500,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "M"
+   ],
+   "colors": [
+    "titanium"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Arrakis-II-Lady-Titanium-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-garage-noi-polo",
+   "name": "Seca Garage Női Póló",
+   "sku": "8GRG21DQ-00",
+   "category": "noi-textilkabat",
+   "price": 7490,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Garage-Noi-Polo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-jessica-iii-city-textil-motoros-kabat",
+   "name": "Seca Jessica III City Textil Motoros kabát",
+   "sku": "2JES21DQ-00",
+   "category": "noi-textilkabat",
+   "price": 59900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL",
+    "5XL"
+   ],
+   "sizes_in_stock": [
+    "M",
+    "L"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Jessica-III-City-Textil-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-stream-evo-lady-black-city-turakabat",
+   "name": "Seca Stream Evo Lady Black City-Túrakabát",
+   "sku": "2STR24DQ-00",
+   "category": "noi-textilkabat",
+   "price": 77900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "sizes_in_stock": [
+    "XS",
+    "S",
+    "M",
+    "L"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "Tartós DuraTec® 600D",
+    "Elasztikus könyök- és vállvédő Betac®",
+    "Könyökvédő magasságának 3 fokozatú állítása",
+    "Zseb a D3O® hátprotektor felhelyezéséhez",
+    "ReflexLite® fényvisszaverők",
+    "Levehető InsiDry® membrán",
+    "A kabáton belül és kívül is használható membrán",
+    "Levehető hőszigetelő bélés",
+    "Puha és légáteresztő AirMesh bélés",
+    "MeshProtecto® szellőzőpanelek",
+    "Elasztikus panelek",
+    "Derék, mandzsetta és ujj állítható rendszer",
+    "Puha és kényelmes gallér és mandzsetta kivitel",
+    "Funkcionális külső és belső zsebek",
+    "Nadrág csatlakozó cipzár",
+    "Az S_connect rendszer lehetővé teszi további rétegek csatlakoztatását a kabáthoz",
+    "CE-minősítésű"
+   ],
+   "desc": "Tartós DuraTec® 600D; Elasztikus könyök- és vállvédő Betac®; Könyökvédő magasságának 3 fokozatú állítása; Zseb a D3O® hátprotektor felhelyezéséhez; ReflexLite® fényvisszaverők; Levehető InsiDry® membrán; A kabáton belül és kívül is használható membrán; Levehető hőszigetelő bélés; Puha és…",
+   "shop_url": "https://secamoto.hu/Seca-Stream-Evo-Lady-Black-City-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-stream-evo-lady-grey-city-turakabat",
+   "name": "Seca Stream Evo Lady Grey City-Túrakabát",
+   "sku": "2STR24DQ-03",
+   "category": "noi-textilkabat",
+   "price": 77900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "S"
+   ],
+   "colors": [
+    "grey"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Stream-Evo-Lady-Grey-City-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-superlite-lady-city-textil-motoros-kabat",
+   "name": "Seca Superlite Lady City textil Motoros kabát",
+   "sku": "2SPL23DQ-00",
+   "category": "noi-textilkabat",
+   "price": 59900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL"
+   ],
+   "sizes_in_stock": [
+    "S"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Superlite-Lady-City-textil-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-warm-lady-kabat",
+   "name": "Seca Warm Lady Kabát",
+   "sku": "8WAR21DQ-00",
+   "category": "noi-textilkabat",
+   "price": 19900,
+   "in_stock": true,
+   "qty": null,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Warm-Lady-Kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-airflow-ii-lady-black-city-motoros-kabat",
+   "name": "Seca Airflow II Lady Black City Motoros kabát",
+   "sku": "2ARF20DQ-00",
+   "category": "noi-textilkabat",
+   "price": 64900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Airflow-II-Lady-Black-City-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-airflow-ii-lady-pink-black-city-motoros-kabat",
+   "name": "Seca Airflow II Lady Pink-Black City Motoros kabát",
+   "sku": "2ARF20DQ-70",
+   "category": "noi-textilkabat",
+   "price": 64900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "pink",
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Airflow-II-Lady-Pink-Black-City-Motoros-kabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-lady-black-turakabat",
+   "name": "Seca Arrakis II Lady Black Túrakabát",
+   "sku": "2ARR21DQ-00",
+   "category": "noi-textilkabat",
+   "price": 99500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Arrakis-II-Lady-Black-Turakabat",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-arrakis-ii-lady-black-turanadrag",
+   "name": "Seca Arrakis II Lady Black Túranadrág",
+   "sku": "7ARR21DQ-00",
+   "category": "noi-nadrag",
+   "price": 74900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "S",
+    "L"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Arrakis-II-Lady-Black-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-selene-lady-black-city-kevlar-nadrag",
+   "name": "Seca Selene Lady Black City Kevlár nadrág",
+   "sku": "7SEL23DQ-00",
+   "category": "noi-nadrag",
+   "price": 50900,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "24",
+    "26",
+    "28",
+    "30",
+    "32",
+    "34"
+   ],
+   "sizes_in_stock": [
+    "24"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Selene-Lady-Black-City-Kevlar-nadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-srs-ii-lady-sport-bornadrag",
+   "name": "Seca SRS II LADY Sport Bőrnadrág",
+   "sku": "3SRS21DQ-14",
+   "category": "noi-nadrag",
+   "price": 112500,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "sizes_in_stock": [
+    "38"
+   ],
+   "colors": [
+    "black",
+    "white"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-SRS-II-LADY-Sport-Bornadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-venus-ii-lady-city-turanadrag",
+   "name": "Seca Venus II Lady City-Túranadrág",
+   "sku": "7VEN20DQ-00",
+   "category": "noi-nadrag",
+   "price": 55900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "M",
+    "L"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Venus-II-Lady-City-Turanadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-angel-black-noi-testhezallo-flexi-farmer-nadr",
+   "name": "Seca Angel Black női testhezálló flexi farmer nadrág (kopásálló Jeggings)",
+   "sku": "7AGL25DQ-00",
+   "category": "noi-nadrag",
+   "price": 64900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Angel-Black-noi-testhezallo-flexi-farmer-nadr",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-delta-one-black-lady-city-cordura-farmer",
+   "name": "Seca Delta One Black Lady City Cordura Farmer",
+   "sku": "7DON22DQ-00",
+   "category": "noi-nadrag",
+   "price": 69000,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Delta-One-Black-Lady-City-Cordura-Farmer",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-delta-one-blue-lady-city-cordura-farmer",
+   "name": "Seca Delta One Blue Lady City Cordura Farmer",
+   "sku": "7DON22DQ-40",
+   "category": "noi-nadrag",
+   "price": 69000,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "blue"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Delta-One-Blue-Lady-City-Cordura-Farmer",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-flex-black-noi-testhezallo-flexi-nadrag-kopas",
+   "name": "Seca Flex Black női testhezálló flexi nadrág (kopásálló Jeggings)",
+   "sku": "7FLX25DQ-00",
+   "category": "noi-nadrag",
+   "price": 64900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Flex-Black-noi-testhezallo-flexi-nadrag-kopas",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-selene-lady-blue-city-kevlar-nadrag",
+   "name": "Seca Selene Lady Blue City Kevlár nadrág",
+   "sku": "7SEL23DQ-40",
+   "category": "noi-nadrag",
+   "price": 50900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "blue"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Selene-Lady-Blue-City-Kevlar-nadrag",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-squadron-lady-black-city-cordura-motoros-nadr",
+   "name": "Seca Squadron Lady Black City Cordura Motoros Nadrág",
+   "sku": "7SQA24DQ-00",
+   "category": "noi-nadrag",
+   "price": 73500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Squadron-Lady-Black-City-Cordura-Motoros-Nadr",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-atom-lady-white-sport-motoros-kesztyu",
+   "name": "Seca Atom Lady White Sport Motoros kesztyű",
+   "sku": "5ATO24DQ-14",
+   "category": "noi-kesztyu",
+   "price": 29900,
+   "in_stock": true,
+   "qty": null,
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_in_stock": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "white"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Atom-Lady-White-Sport-Motoros-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-atom-lady-sport-motoros-kesztyu",
+   "name": "Seca Atom Lady Sport Motoros kesztyű",
+   "sku": "5ATO24DQ-00",
+   "category": "noi-kesztyu",
+   "price": 29900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Atom-Lady-Sport-Motoros-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-axis-mesh-ii-lady-black-city-sport-kesztyu",
+   "name": "Seca Axis Mesh II Lady Black City Sport Kesztyű",
+   "sku": "5AXM24DQ-00",
+   "category": "noi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Axis-Mesh-II-Lady-Black-City-Sport-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-axis-mesh-ii-lady-pink-city-sport-kesztyu",
+   "name": "Seca Axis Mesh II Lady Pink City Sport Kesztyű",
+   "sku": "5AXM24DQ-70",
+   "category": "noi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "pink"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Axis-Mesh-II-Lady-Pink-City-Sport-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-compass-htx-lady-vizallo-motoros-kesztyu",
+   "name": "Seca COMPASS HTX LADY Vízálló Motoros Kesztyű",
+   "sku": "5AXM19DQ-00",
+   "category": "noi-kesztyu",
+   "price": 25500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-COMPASS-HTX-LADY-Vizallo-Motoros-Kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-compass-lady-black-turakesztyu",
+   "name": "Seca Compass Lady Black Túrakesztyű",
+   "sku": "5COM22DQ-00",
+   "category": "noi-kesztyu",
+   "price": 21000,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Compass-Lady-Black-Turakesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-polar-ii-lady-turakesztyu",
+   "name": "Seca Polar II Lady Túrakesztyű",
+   "sku": "5POL24DQ-00",
+   "category": "noi-kesztyu",
+   "price": 16900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Polar-II-Lady-Turakesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-x-stretch-ii-lady-city-sport-kesztyu",
+   "name": "Seca X-STRETCH II LADY City Sport kesztyű",
+   "sku": "5XST24DQ-00",
+   "category": "noi-kesztyu",
+   "price": 19000,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-X-STRETCH-II-LADY-City-Sport-kesztyu",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-hyper-ii-noi-sport-motoros-csizma",
+   "name": "Seca Hyper II Női Sport Motoros Csizma",
+   "sku": "4HYP24DQ-00",
+   "category": "noi-csizma",
+   "price": 71500,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "37",
+    "38",
+    "39",
+    "40"
+   ],
+   "sizes_in_stock": [
+    "39"
+   ],
+   "colors": [
+    "black"
+   ],
+   "features": [
+    "BIZTONSÁG",
+    "Könnyű és tartós MicroFibre anyag",
+    "Lábujj-, sarok- és sípcsontvédők",
+    "Boka stabilizátor",
+    "Bokavédők",
+    "Cserélhető csúszók",
+    "Váltókar megerősítés",
+    "ReflexLite® fényvisszaverő elemek",
+    "CE biztonsági tanúsítvány",
+    "SZELLŐZÉS",
+    "Szellőzőcsatornák a sípcsont és a sarok megerősítésében",
+    "Perforált panelek",
+    "FUNKCIONALITÁS ÉS KÉNYELEM",
+    "Akkordion panelek elöl és hátul",
+    "Biztonságos tépőzáras és cipzáras záródás",
+    "Megfelelően formázott talp",
+    "Puha és légáteresztő bélés"
+   ],
+   "desc": "BIZTONSÁG; Könnyű és tartós MicroFibre anyag; Lábujj-, sarok- és sípcsontvédők; Boka stabilizátor; Bokavédők; Cserélhető csúszók; Váltókar megerősítés; ReflexLite® fényvisszaverő elemek; CE biztonsági tanúsítvány; SZELLŐZÉS; Szellőzőcsatornák a sípcsont és a sarok megerősítésében; Perforált…",
+   "shop_url": "https://secamoto.hu/Seca-Hyper-II-Noi-Sport-Motoros-Csizma",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-apex-pro-fluo-red-noi-city-sport-csizma",
+   "name": "Seca APEX PRO Fluo Red Női City-Sport Csizma",
+   "sku": "4APX24DQ-52",
+   "category": "noi-csizma",
+   "price": 58500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "fluo red"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-Fluo-Red-Noi-City-Sport-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-apex-pro-noi-black-city-sport-csizma",
+   "name": "Seca APEX PRO Női Black City-Sport Csizma",
+   "sku": "4APX24DQ-00",
+   "category": "noi-csizma",
+   "price": 58500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-Noi-Black-City-Sport-Csizma",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-apex-pro-wp-noi-black-vizallo-city-sport-csiz",
+   "name": "Seca APEX PRO WP Női Black Vízálló City-Sport Csizma",
+   "sku": "4APW24DQ-00",
+   "category": "noi-csizma",
+   "price": 62900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-APEX-PRO-WP-Noi-Black-Vizallo-City-Sport-Csiz",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-comet-ii-noi-vizallo-turacsizma",
+   "name": "Seca Comet II Női Vízálló Túracsizma",
+   "sku": "4COM25DQ-00",
+   "category": "noi-csizma",
+   "price": 55900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Comet-II-Noi-Vizallo-Turacsizma",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-kent-ii-noi-black-sneaker-varosi-motoros-cipo",
+   "name": "Seca KENT II Női Black Sneaker Városi Motoros Cipő",
+   "sku": "4KEN24DQ-00",
+   "category": "noi-csizma",
+   "price": 55900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-KENT-II-Noi-Black-Sneaker-Varosi-Motoros-Cipo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-speed-black-noi-rovid-varosi-motoros-cipo",
+   "name": "Seca Speed Black Női Rövid Városi motoros cipő",
+   "sku": "4SPD25DQ-00",
+   "category": "noi-csizma",
+   "price": 50900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Speed-Black-Noi-Rovid-Varosi-motoros-cipo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-tour-tech-ii-noi-black-turacsizma",
+   "name": "Seca Tour-tech II Női Black Túracsizma",
+   "sku": "4TRT25DQ-00",
+   "category": "noi-csizma",
+   "price": 81900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Tour-tech-II-Noi-Black-Turacsizma",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-traffic-ii-noi-city-motoros-cipo",
+   "name": "Seca Traffic II Női City Motoros Cipő",
+   "sku": "4TRA24DQ-00",
+   "category": "noi-csizma",
+   "price": 42900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Traffic-II-Noi-City-Motoros-Cipo",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-signal-ii-fluo-lathatosagi-melleny",
+   "name": "Seca Signal II Fluo láthatósági Mellény",
+   "sku": "8SIG20QQ-58",
+   "category": "kiegeszitok",
+   "price": 19500,
+   "in_stock": true,
+   "qty": 1,
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "2XL",
+    "3XL"
+   ],
+   "sizes_in_stock": [
+    "L"
+   ],
+   "colors": [
+    "fluo"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Signal-II-Fluo-lathatosagi-Melleny",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-bandit-ii-ferfi-funkcionalis-balaclava",
+   "name": "Seca BANDIT II Windstop Férfi Funkcionális Balaclava",
+   "sku": "8BAN22MQ-00",
+   "category": "kiegeszitok",
+   "price": 12500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-BANDIT-II-Ferfi-Funkcionalis-Balaclava",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-bandit-ii-windstop-noi-funkcionalis-balaclava",
+   "name": "Seca BANDIT II Windstop Női Funkcionális Balaclava",
+   "sku": "8BAN22DQ-00",
+   "category": "kiegeszitok",
+   "price": 12500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-BANDIT-II-Windstop-Noi-Funkcionalis-Balaclava",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-clint-black-termoaktiv-csosal",
+   "name": "Seca Clint Black termoaktív csősál",
+   "sku": "8CLI21QQ-00-OS",
+   "category": "kiegeszitok",
+   "price": 4600,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Clint-Black-termoaktiv-csosal",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-clint-camo-termoaktiv-csosal",
+   "name": "Seca Clint Camo termoaktív csősál",
+   "sku": "8CLI21QQ-92-OS",
+   "category": "kiegeszitok",
+   "price": 4600,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "camo"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Clint-Camo-termoaktiv-csosal",
+   "img_w": 800,
+   "img_h": 800
+  },
+  {
+   "slug": "seca-drop-esonadrag",
+   "name": "Seca Drop Esőnadrág",
+   "sku": "8DRP17QQ-58",
+   "category": "kiegeszitok",
+   "price": 8900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black",
+    "fluo yellow"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Drop-Esonadrag",
+   "img_w": 563,
+   "img_h": 1000
+  },
+  {
+   "slug": "seca-monsun-evo-black-fluo-esoruha",
+   "name": "Seca Monsun EVO Black-Fluo Esőruha",
+   "sku": "8MSN25QQ-58",
+   "category": "kiegeszitok",
+   "price": 25500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black",
+    "fluo"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/spd/8MSN25QQ-58/Seca-Monsun-EVO-Black-Fluo-Esoruha",
+   "img_w": 900,
+   "img_h": 1164
+  },
+  {
+   "slug": "seca-multidry-eso-es-szeldzseki",
+   "name": "Seca Multidry Eső és széldzseki",
+   "sku": "8MUL24MQ-58",
+   "category": "kiegeszitok",
+   "price": 28900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "fluo yellow"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Multidry-Eso-es-szeldzseki",
+   "img_w": 900,
+   "img_h": 900
+  },
+  {
+   "slug": "seca-outdoor-2xl-motortakaro-ponyva-top-case-verzi",
+   "name": "Seca Outdoor 2XL Motortakaró ponyva TOP Case Verzió",
+   "sku": "8TOP23QQ-00-2XL",
+   "category": "kiegeszitok",
+   "price": 19900,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Outdoor-2XL-Motortakaro-ponyva-TOP-Case-Verzi",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "seca-outdoor-3xl-motortakaro-ponyva-top-case-verzi",
+   "name": "Seca Outdoor 3XL Motortakaró ponyva TOP Case Verzió",
+   "sku": "8TOP23QQ-00-3XL",
+   "category": "kiegeszitok",
+   "price": 20500,
+   "in_stock": false,
+   "qty": 0,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "black"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Seca-Outdoor-3XL-Motortakaro-ponyva-TOP-Case-Verzi",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-1-mellkasvedo-szett",
+   "name": "RICHA D3O®  Mellkasvédő szett",
+   "sku": "8D3C",
+   "category": "protektorok",
+   "price": 14900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [
+    "D3O® szabadalmaztatott technológia",
+    "Tanúsítottan meghaladja az EN 1621-3:2018 szabvány 1. szintű teljesítménykövetelményeit.",
+    "1. szint, beleértve az opcionális hidegpróbát 10 °C-on.",
+    "B típus maximális lefedettséget kínál",
+    "Kiváló légáteresztő képességet biztosító szellőzés",
+    "Csak osztott mellkasban kapható",
+    "Moduláris komponensrendszer",
+    "Szárnyas kialakítás"
+   ],
+   "desc": "D3O® szabadalmaztatott technológia; Tanúsítottan meghaladja az EN 1621-3:2018 szabvány 1. szintű teljesítménykövetelményeit; 1. szint, beleértve az opcionális hidegpróbát 10 °C-on; B típus maximális lefedettséget kínál; Kiváló légáteresztő képességet biztosító szellőzés; Csak osztott mellkasban…",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-1-Mellkasvedo-szett",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-ghost-level-1-terd-konyok-vedo",
+   "name": "Richa D3O® GHOST LEVEL 1 Térd/Könyök védő",
+   "sku": "8D3KEG",
+   "category": "protektorok",
+   "price": 10900,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Richa-D3O-GHOST-LEVEL-1-Terd-Konyok-vedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-1-t5-evo-x-konyokvedo",
+   "name": "RICHA D3O® Level 1 T5 EVO X Könyökvédő",
+   "sku": "8D3E",
+   "category": "protektorok",
+   "price": 7500,
+   "in_stock": true,
+   "qty": 5,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-1-T5-EVO-X-Konyokvedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-1-t5-evo-x-terdvedo",
+   "name": "RICHA D3O® Level 1 T5 EVO X Térdvédő",
+   "sku": "8D3K",
+   "category": "protektorok",
+   "price": 7500,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-1-T5-EVO-X-Terdvedo",
+   "img_w": 260,
+   "img_h": 400
+  },
+  {
+   "slug": "richa-d3o-level-1-t5-evo-x-vallvedo",
+   "name": "RICHA D3O® Level 1 T5 EVO X Vállvédő",
+   "sku": "8D3S",
+   "category": "protektorok",
+   "price": 7500,
+   "in_stock": true,
+   "qty": 5,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-1-T5-EVO-X-Vallvedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-2-legateresztos-konyokvedo",
+   "name": "RICHA D3O® LEVEL 2 LÉGÁTERESZTŐS Könyökvédő",
+   "sku": "8D3E2A",
+   "category": "protektorok",
+   "price": 14900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-LEVEL-2-LEGATERESZTOS-Konyokvedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-2-legateresztos-terdprotektor",
+   "name": "RICHA D3O® Level 2 Légáteresztős Térdprotektor",
+   "sku": "8D3K2A",
+   "category": "protektorok",
+   "price": 14900,
+   "in_stock": true,
+   "qty": 3,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-2-Legateresztos-Terdprotektor",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-2-legateresztos-vallvedo",
+   "name": "RICHA D3O® Level 2 Légáteresztős Vállvédő",
+   "sku": "8D3S2A",
+   "category": "protektorok",
+   "price": 14900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-2-Legateresztos-Vallvedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-level-2-t5-evo-x-pro-konyokvedo",
+   "name": "RICHA D3O® Level 2 T5 EVO X PRO Könyökvédő",
+   "sku": "8D3E2",
+   "category": "protektorok",
+   "price": 10900,
+   "in_stock": true,
+   "qty": 4,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/RICHA-D3O-Level-2-T5-EVO-X-PRO-Konyokvedo",
+   "img_w": 900,
+   "img_h": 1163
+  },
+  {
+   "slug": "richa-d3o-t5-evo-x-terdprotektor",
+   "name": "Richa D3O® Level 2 T5 EVO X PRO térdprotektor",
+   "sku": "8D3K2",
+   "category": "protektorok",
+   "price": 10900,
+   "in_stock": true,
+   "qty": 2,
+   "sizes": [],
+   "sizes_in_stock": [],
+   "colors": [
+    "orange"
+   ],
+   "features": [],
+   "desc": "",
+   "shop_url": "https://secamoto.hu/Richa-D3O-T5-EVO-X-terdprotektor",
+   "img_w": 900,
+   "img_h": 1163
+  }
+ ]
+}
